@@ -1,15 +1,10 @@
 # hid234
-# Comments
-
-* Mind the ```quotes and do not forget them```
-* Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the 
-
 # Owner
 
 ```
 owner:
     hid: 234
-    name: Weixuan Wang
+    name: Wang, Weixuan
     url: https://github.com/bigdata-i523/sample-hid000
 ```
 
@@ -18,14 +13,12 @@ owner:
 ```
 paper1:
    author: 
-   - Weixuan Wang
-  
-   hid:
+   - Wang, Weixuan
+     hid:
    - 234
-   
-   title: This is my paper about xyz
-   abstract: This paper showcases tis and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+      title: Big Data Analytics in Tourism Industry
+   abstract: This paper focuses on how the tourism industry has been impacted by the development of the Internet and improvements in information and communication technologies and how big data analytic can influence tourism research. 
+   url: https://github.com/bigdata-i523/hid234/paper1/paper1.pdf
 ```
    
 # Paper 2
@@ -33,12 +26,12 @@ paper1:
 ```
 paper2:
    author: 
-   - Weixuan Wang
+   - Wang, Weixuan,
    hid:
    - 234
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   url: https://github.com/bigdata-i523/hid234/paper2/paper2.pdf   
 ```
 
 # Project 
@@ -51,11 +44,11 @@ paper2:
    type: project
    type: report
    author: 
-   - Gregor von Laszewski
+   - Wang, Weixuan
    hid:
-   - 000
+   - 234
    title: Benchmarking a BigData Docker deployment
    abstract: This paper showcases tis and that and the other 
-   url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+   url: https://github.com/bigdata-i523/hid234/project/report.pdf
 ```
    
