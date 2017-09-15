@@ -19,6 +19,8 @@ paper1:
       title: Big Data Analytics in Tourism Industry
    abstract: This paper focuses on how the tourism industry has been impacted by the development of the Internet and improvements in information and communication technologies and how big data analytic can influence tourism research. 
    url: https://github.com/bigdata-i523/hid234/paper1/paper1.pdf
+   type:
+   status: in progress
 ```
    
 # Paper 2
@@ -32,6 +34,8 @@ paper2:
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/hid234/paper2/paper2.pdf   
+   type:
+   status: not started
 ```
 
 # Project 
