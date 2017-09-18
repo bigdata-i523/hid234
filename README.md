@@ -51,8 +51,10 @@ paper2:
    - Wang, Weixuan
    hid:
    - 234
-   title: Benchmarking a BigData Docker deployment
+   title: this project has not been determined yet
    abstract: This paper showcases tis and that and the other 
    url: https://github.com/bigdata-i523/hid234/project/report.pdf
+   type:
+   statue: not started
 ```
    
