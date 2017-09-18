@@ -52,7 +52,7 @@ paper2:
    hid:
    - 234
    title: this project has not been determined yet
-   abstract: This paper showcases tis and that and the other 
+   abstract: This paper showcases this and that and the other 
    url: https://github.com/bigdata-i523/hid234/project/report.pdf
    type:
    statue: not started
