@@ -5,7 +5,7 @@
 owner:
     hid: 234
     name: Wang, Weixuan
-    url: https://github.com/bigdata-i523/sample-hid000
+    url: https://github.com/bigdata-i523/hid234
 ```
 
 # Paper 1
@@ -14,9 +14,9 @@ owner:
 paper1:
    author: 
    - Wang, Weixuan
-     hid:
+   hid:
    - 234
-      title: Big Data Analytics in Tourism Industry
+   title: Big Data Analytics in Tourism Industry
    abstract: This paper focuses on how the tourism industry has been impacted by the development of the Internet and improvements in information and communication technologies and how big data analytic can influence tourism research. 
    url: https://github.com/bigdata-i523/hid234/paper1/paper1.pdf
    type:
