@@ -1,11 +1,15 @@
-# hid234
+# Comments
+
+* Mind the ```quotes and do not forget them```. Please do not delete the quotes, and keep the #
+* Remove all sections that you have not yet worked on. 
+
 # Owner
 
 ```
 owner:
-    hid: 234
-    name: Wang, Weixuan
-    url: https://github.com/bigdata-i523/hid234
+    hid: 000
+    name: Gregor von Laszewski
+    url: https://github.com/bigdata-i523/sample-hid000
 ```
 
 # Paper 1
@@ -13,14 +17,15 @@ owner:
 ```
 paper1:
    author: 
-   - Wang, Weixuan
+   - Gregor von Laszewski
+   - Fugang Wang
    hid:
-   - 234
-   title: Big Data Analytics in Tourism Industry
-   abstract: This paper focuses on how the tourism industry has been impacted by the development of the Internet and improvements in
-   information and communication technologies and how big data analytic can influence tourism research. 
-   url: https://github.com/bigdata-i523/hid234/paper1/paper1.pdf
-   type:
+   - 000
+   - 001
+   title: This is my paper about xyz
+   abstract: This paper showcases this and that and the other
+   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   type: latex
    status: in progress
 ```
    
@@ -29,14 +34,14 @@ paper1:
 ```
 paper2:
    author: 
-   - Wang, Weixuan,
+   - Gregor von Laszewski
    hid:
-   - 234
+   - 000
    title: This is my paper about the other abc
-   abstract: This paper showcases tis and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/hid234/paper2/paper2.pdf   
-   type:
-   status: not started
+   abstract: This paper showcases this and that and the other in regards to abc
+   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   type: word
+   status: in progress
 ```
 
 # Project 
@@ -45,17 +50,17 @@ We will assign new pids for you when we approve the project and reports
 Just use one type and delete the line with 
 
 ```
-paper2:
+project:
    type: project
    type: report
    author: 
-   - Wang, Weixuan
-   hid:
-   - 234
-   title: this project has not been determined yet
-   abstract: This paper showcases this and that and the other 
-   url: https://github.com/bigdata-i523/hid234/project/report.pdf
-   type:
-   statue: not started
+   - Gregor von Laszewski
+   pid:
+   - 000
+   title: Benchmarking a BigData Docker deployment
+   abstract: This paper showcases tis and that and the other 
+   url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+   type: latex
+   status: in progress
 ```
    
