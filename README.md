@@ -21,8 +21,8 @@ paper1:
    hid:
    - 234
    title: Big Data Analytics in Tourism Industry
-   abstract: This paper showcases this and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   abstract: This paper focuses on how the tourism indusrty has been impacted by the development of Internets and improvements in information and communication and communication technologies and how big data analytic can influence tourism research. 
+   url: https://github.com/bigdata-i523/hid234/paper1/paper1.pdf
    type: latex
    status: in progress
 ```
@@ -32,14 +32,14 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Weixuan Wang
    hid:
-   - 000
+   - 234
    title: This is my paper about the other abc
    abstract: This paper showcases this and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   url: https://github.com/bigdata-i523/hid234/paper2/paper2.pdf   
    type: word
-   status: in progress
+   status: not started
 ```
 
 # Project 
@@ -52,12 +52,12 @@ project:
    type: project
    type: report
    author: 
-   - Gregor von Laszewski
+   - Weixuan Wang
    pid:
-   - 000
-   title: Benchmarking a BigData Docker deployment
+   - 234
+   title: This is my project about abc
    abstract: This paper showcases tis and that and the other 
-   url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+   url: https://github.com/bigdata-i523/pid234/project/report.pdf
    type: latex
    status: in progress
 ```
