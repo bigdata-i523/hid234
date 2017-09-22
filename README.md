@@ -7,8 +7,8 @@
 
 ```
 owner:
-    hid: 000
-    name: Gregor von Laszewski
+    hid: 234
+    name: Weixuan Wang
     url: https://github.com/bigdata-i523/sample-hid000
 ```
 
