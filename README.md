@@ -9,7 +9,7 @@
 owner:
     hid: 234
     name: Weixuan Wang
-    url: https://github.com/bigdata-i523/sample-hid000
+    url: https://github.com/bigdata-i523/hid234
 ```
 
 # Paper 1
