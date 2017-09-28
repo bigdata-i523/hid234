@@ -15,6 +15,8 @@
 
 * 09/20/17 Installed and Learned jabref
 * 09/20/17 Installed MikTex
+* 09/28/17 Read 3 pieces of previous literature similar to my topic
+* 09/28/17 Trying to learn Latex 
 
 # Location
  
