@@ -37,7 +37,7 @@ paper2:
    abstract: This paper showcases this and that and the other in regards to abc
    url: https://github.com/bigdata-i523/hid234/paper2/paper2.pdf   
    type: word
-   status: not started
+   status: pending until paper 1 is finished
 ```
 
 # Project 
