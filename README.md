@@ -22,7 +22,7 @@ paper1:
        can influence tourism research. 
    url: https://github.com/bigdata-i523/hid234/paper1/paper1.pdf
    type: latex
-   status: 99%
+   status: 100%
    chapter: Business
 ```
    
