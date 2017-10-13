@@ -1,4 +1,4 @@
-/ Logistic
+# Logistic
 
 * 08/21/17 Read the entire class overview section 
 
