@@ -4,10 +4,11 @@ owner:
     name: Weixuan Wang
     url: https://github.com/bigdata-i523/hid234
 paper1:
-    abstract: "This paper focuses on how the tourism indusrty has been impacted by\
-        \ the development of Internets and improvements in information and communication\
-        \ and communication technologies and how big data analytic  can influence\
-        \ tourism research. \n"
+    abstract: >
+        This paper focuses on how the tourism indusrty has been impacted by
+        the development of Internets and improvements in information and communication
+        and communication technologies and how big data analytic  can influence
+        tourism research.
     author:
         - Weixuan Wang
     chapter: Business
