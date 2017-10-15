@@ -1,0 +1,39 @@
+---
+owner:
+    hid: 234
+    name: Weixuan Wang
+    url: https://github.com/bigdata-i523/hid234
+paper1:
+    abstract: "This paper focuses on how the tourism indusrty has been impacted by\
+        \ the development of Internets and improvements in information and communication\
+        \ and communication technologies and how big data analytic  can influence\
+        \ tourism research. \n"
+    author:
+        - Weixuan Wang
+    chapter: Business
+    hid:
+        - 234
+    status: 100%
+    title: Big Data Analytics in Tourism Industry
+    type: latex
+    url: https://github.com/bigdata-i523/hid234/paper1/paper1.pdf
+paper2:
+    abstract: This paper showcases this and that and the other in regards to abc
+    author:
+        - Weixuan Wang
+    hid:
+        - 234
+    status: pending until paper 1 is finished
+    title: This is my paper about the other abc
+    type: word
+    url: https://github.com/bigdata-i523/hid234/paper2/paper2.pdf
+project:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Weixuan Wang
+    pid:
+        - 234
+    status: in progress
+    title: This is my project about abc
+    type: latex
+    url: https://github.com/bigdata-i523/pid234/project/report.pdf
