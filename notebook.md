@@ -10,6 +10,8 @@
 * 09/30/17 - 10/07/17 Read Big Data Use Cases slides and video of section 3.3.1 and watched 3.3.2.4. Healthcare and Life Science Use Cases
 * 10/09/17 - 10/12/17 Reading and watching video Health Informatics Case Study from overview to Medical image big data
 * 10/13/17 - 10/19/17 Finished Health Informatics Case Study Section
+* 10/20/17 - 10/26/17 Finished e-Commerce and LifeStyle Case Study
+* 10/26/17 Watching Physics case study
 
 # Practice
 
@@ -23,6 +25,7 @@
 * 09/28/17 Read 3 pieces of previous literature similar to my topic
 * 10/08/17 Finish Paper 1 in sharelatex
 * 10/17/17 Choosed Topic for Paper 2
+* 10/26/17 Reading for paper 2 
 
 
 # Location
