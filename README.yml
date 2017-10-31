@@ -24,17 +24,25 @@ paper2:
         - Weixuan Wang
     hid:
         - 234
-    status: 0%
+    status: 10%
     title: Big Data and Edge Computing in Health Informatics for People with Disabilities.
     type: latex
     url: https://github.com/bigdata-i523/hid234/paper2/paper2.pdf
 project:
-    abstract: This paper showcases tis and that and the other
+    abstract: >
+          Big data applications and analytics have been influencing and improving 
+          tourists' experience. Travel accessibility refers to provide access for 
+          people with disabilities or limited mobility (such as seniors), who represent
+          a growing market in the travel industry by spending billions on leisure and 
+          business trips. This report will synthesize big data applications and its 
+          implements in the travel industry and explore their potentials in improving 
+          travel accessibility.
+    
     author:
         - Weixuan Wang
     pid:
         - 234
-    status: in progress
-    title: This is my project about abc
-    type: latex
+    status: 1%
+    title:  Big Data Applications in the Travel Industry and its Potential in Improving Travel Accessibility
+    type: report
     url: https://github.com/bigdata-i523/pid234/project/report.pdf
