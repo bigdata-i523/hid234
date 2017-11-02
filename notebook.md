@@ -11,7 +11,8 @@
 * 10/09/17 - 10/12/17 Reading and watching video Health Informatics Case Study from overview to Medical image big data
 * 10/13/17 - 10/19/17 Finished Health Informatics Case Study Section
 * 10/20/17 - 10/26/17 Finished e-Commerce and LifeStyle Case Study
-* 10/26/17 Watching Physics case study
+* 10/26/17 - 11/01/17 Finished Sports Case Study and Web Search and Text Mining
+* 10/26/17 - 11/02/17 Still Watching Physics case study
 
 # Practice
 
@@ -26,6 +27,7 @@
 * 10/08/17 Finish Paper 1 in sharelatex
 * 10/17/17 Choosed Topic for Paper 2
 * 10/26/17 Reading for paper 2 
+* 11/01/17 Upload template for paper 2, and working in sharelatex
 
 
 # Location
