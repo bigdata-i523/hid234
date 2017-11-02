@@ -7,7 +7,6 @@
 
 * 08/22/17 - 08/23/17 Read and watched all videso in the Theory Introduction section
 * 09/28/17 Watched all video in Overview of Data Science Section
-* 10/09/17 - 10/12/17 Reading and watching video Health Informatics Case Study from overview to Medical image big data
 * 10/13/17 - 10/19/17 Finished Health Informatics Case Study Section
 * 10/20/17 - 10/26/17 Finished e-Commerce and LifeStyle Case Study
 * 10/26/17 - 11/01/17 Finished Sports Case Study and Web Search and Text Mining
