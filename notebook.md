@@ -7,7 +7,6 @@
 
 * 08/22/17 - 08/23/17 Read and watched all videso in the Theory Introduction section
 * 09/28/17 Watched all video in Overview of Data Science Section
-* 09/30/17 - 10/07/17 Read Big Data Use Cases slides and video of section 3.3.1 and watched 3.3.2.4. Healthcare and Life Science Use Cases
 * 10/09/17 - 10/12/17 Reading and watching video Health Informatics Case Study from overview to Medical image big data
 * 10/13/17 - 10/19/17 Finished Health Informatics Case Study Section
 * 10/20/17 - 10/26/17 Finished e-Commerce and LifeStyle Case Study
@@ -18,6 +17,7 @@
 
 * 08/25/17 Enabled Python 2 and 3 via pyenv on OSX
 * 10/19/17 Learning Python
+* 11/01/17 Trying Jupyternotebook
 
 # Writing
 
