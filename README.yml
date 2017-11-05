@@ -19,6 +19,7 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid234/paper1
 paper2:
+    review: Nov 6 2017
     abstract: Looking at how big data and edge computing in Health Informatics can help improve the lives of people with disabilities.
     author:
         - Weixuan Wang
