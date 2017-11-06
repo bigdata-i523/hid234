@@ -27,7 +27,7 @@
 * 10/17/17 Choosed Topic for Paper 2
 * 10/26/17 Reading for paper 2 
 * 11/01/17 Upload template for paper 2, and working in sharelatex
-* 11/05/17 Working on paper 2, will be submiting late because I want to do similarity and plagiarism test before submiting on Nov 10
+* 11/05/17 Working on paper 2, will be submiting late because I want to do similarity and plagiarism test before submiting on Nov 8
 
 # Location
  
