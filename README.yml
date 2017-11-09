@@ -5,7 +5,7 @@ owner:
     url: https://github.com/bigdata-i523/hid234
 paper1:
     abstract: >
-        This paper focuses on how the tourism indusrty has been impacted by
+        This study focuses on how the tourism indusrty has been impacted by
         the development of Internets and improvements in information and communication
         and communication technologies and how big data analytic  can influence
         tourism research.
@@ -20,12 +20,16 @@ paper1:
     url: https://github.com/bigdata-i523/hid234/paper1
 paper2:
     review: Nov 6 2017
-    abstract: Looking at how big data and cloud computing in Health Informatics can help improve the lives of people with disabilities.
+    abstract: >
+         This study provided a short overview of disability informatics, providing examples of using health informatics
+         for people with disabilities.This study also explored the potentials of using big data sources to better understand 
+         people with disabilities and uncovered the potential of big data and cloud computing in developing assistive 
+         technology and information technology for people with disabilities.
     author:
         - Weixuan Wang
     hid:
         - 234
-    status: Nov 9 2017 99% 
+    status: Nov 9 2017 100% 
     title: Big Data and Cloud Computing in Health Informatics for People with Disabilities.
     type: latex
     url: https://github.com/bigdata-i523/hid234/paper2
