@@ -10,7 +10,8 @@
 * 10/13/17 - 10/19/17 Finished Health Informatics Case Study Section
 * 10/20/17 - 10/26/17 Finished e-Commerce and LifeStyle Case Study
 * 10/26/17 - 11/01/17 Finished Sports Case Study and Web Search and Text Mining
-* 10/26/17 - 11/02/17 Still Watching Physics case study
+* 10/26/17 - 11/02/17 Watching Physics case study
+* 11/07/17 - 11/09/17 Watching Sensor case study
 
 # Practice
 
@@ -27,7 +28,7 @@
 * 10/17/17 Choosed Topic for Paper 2
 * 10/26/17 Reading for paper 2 
 * 11/01/17 Upload template for paper 2, and working in sharelatex
-* 11/05/17 Working on paper 2, will be submiting late because I want to do similarity and plagiarism test before submiting on Nov 8
+* 11/09/17 finish paper 2
 
 # Location
  
