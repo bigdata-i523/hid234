@@ -10,14 +10,16 @@
 * 10/13/17 - 10/19/17 Finished Health Informatics Case Study Section
 * 10/20/17 - 10/26/17 Finished e-Commerce and LifeStyle Case Study
 * 10/26/17 - 11/01/17 Finished Sports Case Study and Web Search and Text Mining
-* 10/26/17 - 11/02/17 Watching Physics case study
-* 11/07/17 - 11/09/17 Watching Sensor case study
+* 10/26/17 - 11/15/17 Finished Physics case study
+* 11/07/17 - 11/10/17 Finished Sensor case study
+* 11/15/17 - 11/17/17 Watching Radar case study
 
 # Practice
 
 * 08/25/17 Enabled Python 2 and 3 via pyenv on OSX
 * 10/19/17 Learning Python
 * 11/01/17 Trying Jupyternotebook
+* 11/16/17 Working on Experiment
 
 # Writing
 
