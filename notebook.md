@@ -13,6 +13,7 @@
 * 10/26/17 - 11/15/17 Finished Physics case study
 * 11/07/17 - 11/10/17 Finished Sensor case study
 * 11/15/17 - 11/17/17 Watching Radar case study
+* 11/21/17 Finished all the lecture
 
 # Practice
 
@@ -31,6 +32,7 @@
 * 10/26/17 Reading for paper 2 
 * 11/01/17 Upload template for paper 2, and working in sharelatex
 * 11/09/17 finish paper 2
+* 11/30/17 Working on final report
 
 # Location
  
