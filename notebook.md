@@ -32,6 +32,7 @@
 * 10/26/17 Reading for paper 2 
 * 11/01/17 Upload template for paper 2, and working in sharelatex
 * 11/09/17 finish paper 2
+* 11/10/17 - 11/22/17 tried to do a semantic analysis using python, but not very successful, going to stick to report.
 * 11/30/17 Working on final report
 
 # Location
