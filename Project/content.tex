@@ -1,3 +1,10 @@
+\documentclass[sigconf]{acmart}
+
+\input{format/i523}
+
+\begin{document}
+
+
 \title{Big Data Applications in the Travel Industry and its Potential in Improving Travel Accessibility}
 
 
@@ -17,10 +24,10 @@
 
 
 \begin{abstract}
-This is my abstract
+Big data applications and analytics have been influencing and improving tourists' experience. Travel accessibility refers to provide access for people with disabilities or limited mobility (such as seniors), who represent a growing market in the travel industry by spending billions on leisure and business trips. This report will synthesize big data analytics and its implements in the travel industry and explore their potentials in improving travel accessibility information of the reviewer.
 \end{abstract}
 
-\keywords{i523, HID234}
+\keywords{i523, HID234, Big Data Analytics, Travel Accessibility, People with Disabilities}
 
 
 \maketitle
@@ -30,14 +37,53 @@ This is my abstract
 \section{Introduction}
 People with disabilities represented a large neglected tourism market. According to
 Amadeus annual report, 15 percent of worldwide population (1 billion people) lives
-with some form of disability \cite{Ama}. According to the Open Door Organization (ODO) market report in 2015, people with disabilities spend 17.3 billion dollars annually for their own travel. Because people with disabilities usually needs a care giver or family member to accompany them when traveling, the potential economic impact could double \cite{ODO}. 
-Travel Industry and its Potential in Improving Travel Accessibility.
-Here is the introduction. Travel accessibility or travel for people with disabilities. Aspects that
-need to consider are transports, hotel,   \cite{Ama}.
+with some form of disability \cite{Ama}. The World Health Organization estimates
+that by 2050, 21.5 per cent of the global population
+will be aged over 65. People with accessibility issues
+represent a large and fast growing minority group
+worldwide. According to the Open Door Organization (ODO) market report in 2015, people with disabilities spend 17.3 billion dollars annually for their own travel. Because people with disabilities usually needs a care giver or family member to accompany them when traveling, the potential economic impact could double \cite{ODO}. 
 
-\section{transportation and big data}
+``Accessible travel] enables people with access requirements, including mobility,
+vision, hearing and cognitive dimensions of access, to function independently, with
+equity and dignity through the delivery of universally designed tourism products,
+services and environments'' \cite{Ama}. Travel accessibility or travel for people with disabilities. Aspects that need to consider are transports, hotel, and attractions \cite{Ama}.
+
+The ultimate aim for those involved in supporting accessible travel is to empower every individual to plan and travel independently, at their own will \cite{zhang2016}. However, the task is not a easy one. An inaccessible transport network prevents many people from going to school or studying, working, going
+to the doctor, meeting friends, going shopping or to the
+cinema and other activities that are taken for granted. The inaccessible transport network would also prevent people with disabilities to travel for business or leisure. Making the whole travel chain accessible, including the information and booking procedures, as well as the infrastructure and processes become a important task for travel accessibility \cite{Ama}. 
+
+
+
+\section{Accessible Transportation and Big data}
+Older adults, people with disabilities, individuals in low-income households, especially those living in rural areas can face significant mobility challenges. Concerns about getting into an accident, congestion, price of travel, access to transit, and lack of walkways are important issues for a large percentage of the population, but they tend to be more important for people with disabilities \cite{moya2016dynamic}.
+For today's travel and transportation businesses, it is important to address the issue of inclusion, which is the potential to enable a broader range of people to use transportation infrastructure regardless of their individual abilities or disabilities
+\cite{milo}.
+Accessibility has always been a key concept in urban and regional planning for its capacity to link the activities of people and businesses to the possibilities of reaching them effectively. The concept of urban accessibility are different from travel accessibility, since the urban accessibility is focus on provide access of transportation and transit to general public, not specifically people with disabilities \cite{moya2016dynamic}. However, previous studies using big data on urban accessibility can provide some potentials for travel accessibility studies.
 
 \section{Travel and Big data}
+Most activities in the tourism industry had been generating a huge amount of data for
+several years. Booking flight tickets, reserving a hotel room and renting a car all
+leaves a data trail \cite{Shafiee16}. These data could add up to more than hundred of
+terabytes or petabytes structured data in the conventional databases \cite{akerkar2012}.
+Discussions of travel planning on online travel community, status updates and posts on
+social media like Facebook and Twitter, compliments and compliant on review websites like TripAdvisor
+constructs more challenging and live unstructured data that arrives at a much
+faster pace than a conventional database \cite{akerkar2012}. Tourism practitioners are
+trying to understand tourists' behavior by accepting and analyzing these big data 
+\cite{Shafiee16}.
+
+Airline and hotel chains have been using their big data which is the large volume of
+structured information that has been produced internally \cite{MIAH2017}. Airlines and
+hotels have been using this tool to analyze prices of plane ticket and hotel room
+\cite{GJT14}. Moreover, airlines have optimized the details of planning for the crew and
+routing \cite{Shafiee16, GJT14}. The online sector of the tourism industry has also
+quickly adopted big data to improve internal decisions and understand customers 
+\cite{akerkar2012}. The online sector of the industry include  meta-search engines (like 
+Google), online travel agencies (like Expedia) and some information website companies that
+distribute tourism information (TripAdvisor)\cite{MIAH2017}. For example, Amadeus has 
+developed a program ``Amadeus Airline Cloud Availability'' that can generated special 
+result and increase search for its customers and Kayak has developed a program to predict 
+costs and prices for tourists\cite{Shafiee16}.
 
 \section{Promise of big data in travel accessibility}
 
@@ -45,10 +91,15 @@ need to consider are transports, hotel,   \cite{Ama}.
 Sentiment analysis, which is also called opinion mining, is one of the most active
 research areas in natural language processing \cite{opinion2014}. The aim of sentiment analysis is to define automatic tools able to extract subjective information from text in natural \cite{article} language, and to create structured and actionable knowledge to be used by either a decision support system or a decision maker. The sentiments of reviews, online reputation or online documents are usually categorized in positive, negative and (in some studies) neutral sentiments \cite{Garcia2012}. The main goal of the sentiment classification is to extract ``the global sentiment based on the subjectivity and the linguistic characteristics of the words within an unstructured text'' \cite{Garcia2012}. Therefore, sentiment analysis provided a framework to transform unstructured text to structured data, which make it strongly applicable to both the academic field \cite{Cam2013}. Because of the importance of sentiment analysis to business and society, it has spread from computer science to management science and the social sciences \cite{Pozzi}. As a social science field and business industry, tourism an travel studies have already been using sentiment analysis in the research.
 
-The popularity of social media, especially review sites like TripAdvisor and blogs and wikis, leads to an enormous amount of personal reviews for travel-related information on the Web \cite{opinion2014}. More importantly, the information in these reviews is valuable to both tourists and travel and tourism practitioners for various understanding and planning processes \cite{YE20096527}. Since 2009, researchers have been using machine learning methods in the natural language processing (support vector machine (SVM), Naïve Bayes, and the N-gram model) to do sentiment analysis on TripAdvisor reviews \cite{YE20096527}. Their study analyzed online reviews related to travel destinations, using different supervised machine learning algorithms The
-algorithms to evaluate the reviews about seven popular travel destinations in Europe and North America \cite{YE20096527}. 
+The popularity of social media, especially review sites like TripAdvisor and blogs and wikis, leads to an enormous amount of personal reviews for travel-related information on the Web \cite{opinion2014}. More importantly, the information in these reviews is valuable to both tourists and travel and tourism practitioners for various understanding and planning processes \cite{YE20096527}. Previous studies have identified two primary approaches for sentiment analysis: methods based on the combination of lexical resources and Natural Language Processing (NLP) techniques; and machine learning approaches \cite{Garcia2012}. Since 2009, researchers have been using machine learning methods in the natural language processing (support vector machine (SVM), Naïve Bayes, and the N-gram model) to do sentiment analysis on TripAdvisor reviews \cite{YE20096527}. 
+Their study analyzed online reviews related to travel destinations, using different supervised machine learning algorithms The
+algorithms to evaluate the reviews about seven popular travel destinations in Europe and North America \cite{YE20096527}.
 
-In tourism studies, sentiment analysis has been compared to traditional qualitative analytic methods. A previous study compared three alternative approaches for mining consumer sentiment (manual content coding, corpus-based semantic analysis, and stance-shift analysis) from large amounts of qualitative data found in online travel reviews.  They applied three different approaches to study consumers' reaction to farm stays in order to demonstrate how large volumes of qualitative data can be analyzed quantitatively in a relatively efficient and reliable way \cite{Farm}. By comparing the three approaches of sentiment analysis, 
+Thee etBlogAnalysis project developed a combined crawler /sentiment extraction application for the tourism industry, which used a simple and robust linguistic parsing methodology with information and terminology extraction methods in order to determine relevant utterances on expression level \cite{opinion2014}. It will also provide a warning for tourism operator such as a hotel, if too many negative entries have been generated by their reviewers \cite{Garcia2012}.
+
+In tourism studies, sentiment analysis has been compared to traditional qualitative analytic methods. A previous study compared three alternative approaches for mining consumer sentiment (manual content coding, corpus-based semantic analysis, and stance-shift analysis) from large amounts of qualitative data found in online travel reviews \cite{Farm}. They applied three different approaches to study consumers' reaction to farm stays in order to demonstrate how large volumes of qualitative data can be analyzed quantitatively in a relatively efficient and reliable way \cite{Farm}.  Manual content coding is the same as traditional the content analysis approach involving two researchers collaborated in a manual coding process designed to extract consumer likes and dislikes from the qualitative data \cite{Farm}. According to the comparison, computer generated sentiment analysis such as stance-shift analysis processing on both syntax and lexicon assures the coding maintains the statement's context identifying what is important to the informants by the way they express their comments. Most importantly, stance-shift analysis does not categorize what the researcher thinks is important in reviewer's words \cite{Farm}. The study suggested by combining different approaches in sentiment analysis such as using stance-shift analysis first identifies the significant word segments then using corpus-based semantic analysis detects key themes in those segments helps uncover narrative themes of consumer experiences in large qualitative databases \cite{Farm}.
+
+Sentiment analysis will help researchers to better understand people's travel experience, however, there are few studies have been done to identify demographic information of the reviewer and compare the sentiment analysis result across different demographic. A recent invention present the possibility of identifying demographic characteristics while conducting sentiment analysis. The invention consist of a product or service review to determine demographic information of the reviewer \cite{Bhatt2014}. A sentiment text analysis is performed on the product or service review, wherein the sentiment text analysis examines the product or service review to determine a sentiment of the product or service review. The sentiment of the product or service review is categorized based on the demographic information of the reviewer \cite{Bhatt2014}. This invention present the promise of using sentiment analysis on the travel experience of people with disabilities. However, challenges still remain for research of UGC generated by people with disabilities, such as the challenge presented by privacy concerns of personal data online \cite{lazar}. 
 
 
 \subsection{Recommender System}
@@ -81,20 +132,20 @@ Classical recommender systems filter the domain items according to a particular 
 
 The use of semantic domain knowledge in the recommendation process has heavily increased in recent years. Previous studies have defined the semantic similarity between two concepts is as ``the ratio between the number of different ancestors and the total number of ancestors of both concepts’’ \cite{morenorecommender}. The items to be recommended are clustered according to this semantic similarity and the recommendation procedure selects the best item from random clusters \cite{Santos2018}. Previous study has shown that this procedure keeps the accuracy and increases the diversity of the results \cite{morenorecommender}. Semantic information can also be used to determine the items to be recommended in a personalized visit to a museum or destinations, by using a shortest-path semantic distance to determine which museum objects or attractions should be recommended to the user \cite{morenorecommender}. 
 
-Previous study also proposed a hybrid tourism recommendation system for persons suffering from physical or intellectual limitation. This proposed recommendation system is not simply trying to improve experience, but to create in users the confidence that despite of their limitations they can visit and experience certain places without being afraid, and to help them to live a touristic experience. By identifying the user’s functionality and point of interest (POI) accessibility level, the system models a user stereotype profile, which represent user’s related knowledge (which is layered with several knowledge representation structures and models shown in Fig. 1) and produce an accurate touristic recommendation plan \cite{Santos2018}.
+Previous study also proposed a hybrid tourism recommendation system for persons suffering from physical or intellectual limitation. This proposed recommendation system is not simply trying to improve experience, but to create in users the confidence that despite of their limitations they can visit and experience certain places without being afraid, and to help them to live a touristic experience. By identifying the user’s functionality and point of interest (POI) accessibility level, the system models a user stereotype profile, which represent user’s related knowledge (which is layered with several knowledge representation structures and models shown in Fig. 1) and produce an accurate touristic recommendation plan \cite{Santos2018}. The study represent itself as a opportunity to provided needed information to people with disabilities through a hybrid tourism recommendation system. 
 
 
 
 \section{Conclusion}
 
-Put here an conclusion. Conlcusions and abstracts must not have any
-citations in the section.
+This study has explored the Big data applications and analytics and its implication  for travel accessibility. This study illustrated the importance of improving travel accessibility by recognizing the underestimated market for travel of people with disabilities. The study identify the potential of big data applications such as recommender system and big data analytics that can be used to improve travel accessibility.Both tourism practitioners and tourism researcher has recognized the
+influence of big data and big data sources for tourism development. 
 
 
 \begin{acks}
 
-  The authors would like to thank Dr. Gregor von Laszewski for his
-  support and suggestions to write this paper.
+  The authors would like to thank Dr. Gregor von Laszewski and TAs for i523 for their
+  supports and suggestions to write this paper.
 
 \end{acks}
 
@@ -102,3 +153,6 @@ citations in the section.
 \bibliography{report} 
 
 \appendix
+
+
+\end{document}
