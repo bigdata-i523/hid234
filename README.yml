@@ -33,6 +33,7 @@ paper2:
     title: Big Data and Cloud Computing in Health Informatics for People with Disabilities.
     type: latex
     url: https://github.com/bigdata-i523/hid234/paper2
+    chapter: Lifestyle
 project:
     abstract: >
           Big data applications and analytics have been influencing and improving 
