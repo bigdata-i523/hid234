@@ -5,10 +5,10 @@ owner:
     url: https://github.com/bigdata-i523/hid234
 paper1:
     abstract: >
-        This study focuses on how the tourism indusrty has been impacted by
-        the development of Internets and improvements in information and communication
-        and communication technologies and how big data analytic  can influence
-        tourism research.
+        This study focuses on how the tourism indusrty has been
+        impacted by the development of Internets and improvements in
+        information and communication and communication technologies
+        and how big data analytic can influence tourism research.
     author:
         - Weixuan Wang
     chapter: Business
@@ -21,37 +21,47 @@ paper1:
 paper2:
     review: Nov 6 2017
     abstract: >
-         This study provided a short overview of disability informatics, providing examples of using health informatics
-         for people with disabilities.This study also explored the potentials of using big data sources to better understand 
-         people with disabilities and uncovered the potential of big data and cloud computing in developing assistive 
-         technology and information technology for people with disabilities.
+         This study provided a short overview of disability
+         informatics, providing examples of using health informatics
+         for people with disabilities.This study also explored the
+         potentials of using big data sources to better understand
+         people with disabilities and uncovered the potential of big
+         data and cloud computing in developing assistive technology
+         and information technology for people with disabilities.
     author:
         - Weixuan Wang
     hid:
         - 234
-    status: Nov 9 2017 100% 
-    title: Big Data and Cloud Computing in Health Informatics for People with Disabilities.
+    status: Nov 9 2017 100%
+    title: >
+        Big Data and Cloud Computing in Health Informatics for People
+        with Disabilities.
     type: latex
     url: https://github.com/bigdata-i523/hid234/paper2
     chapter: Lifestyle
 project:
     abstract: >
-          Big data applications and analytics have been influencing and improving 
-          tourists' experience. Travel accessibility refers to provide access for 
-          people with disabilities or limited mobility (such as seniors), who represent
-          a growing market in the travel industry by spending billions on leisure and 
-          business trips. This report explored the implementation of bid data analytics
-          and applications in tourism, disabilities related studies and assistive technologies
-          for people with disabilities. This report explored the potentials of big data applications
-          and analytics in understanding the needs and travel experience of people with disabilities
-          and improving travel accessibility and quality of life for people with disabilities.
-    
+        Big data applications and analytics have been influencing and
+        improving tourists' experience. Travel accessibility refers to
+        provide access for people with disabilities or limited
+        mobility (such as seniors), who represent a growing market in
+        the travel industry by spending billions on leisure and
+        business trips. This report explored the implementation of bid
+        data analytics and applications in tourism, disabilities
+        related studies and assistive technologies for people with
+        disabilities. This report explored the potentials of big data
+        applications and analytics in understanding the needs and
+        travel experience of people with disabilities and improving
+        travel accessibility and quality of life for people with
+        disabilities.
     author:
         - Weixuan Wang
     pid:
         - 234
     status: 100% Dec 07 17
-    title:  Big Data Analytics and Applications in the Travel Industry and its Potential in Improving Travel Accessibility
+    title: >
+        Big Data Analytics and Applications in the Travel Industry
+        and its Potential in Improving Travel Accessibility
     type: paper
     url: https://github.com/bigdata-i523/pid234/project
     chapter: Business
